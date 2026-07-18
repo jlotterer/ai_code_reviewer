@@ -1,4 +1,4 @@
-# ai_code_reviewer
+# AI Code Reviewer
 Prompts used for AI code reviews
 
 
@@ -185,12 +185,12 @@ Remove-Item -Recurse -Force .venv
 
 ---
 ## CONVERT MD TO PDF
-# INSTALL REQUIREMENTS
-# Create .venv first
+### INSTALL REQUIREMENTS
+### Create .venv first
 pip install pywin32 markdown
 
 
-# MD_TO_PDF USAGE
+### MD_TO_PDF USAGE
 cd path\to\scripts
 python md_to_pdf.py .\reports\FULL\PATH\TO\REPORT.md
 
