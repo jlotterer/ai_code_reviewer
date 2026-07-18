@@ -17,7 +17,7 @@ Create Baseline Documents
     - Use PA Extractor Flow
 
 
-
+---
 
 ## SEQUENCE
   1. Requirements Review - are we building the right thing?
@@ -28,8 +28,7 @@ Create Baseline Documents
   6. Power Automate Review - runtime failures, expression issues, and flow design problems 
   7. Power App Review
 
-
-
+---
 
 ## FILE STRUCTURE
 /docs
