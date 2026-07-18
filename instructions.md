@@ -19,9 +19,8 @@ Create Baseline Documents
 
 
 
-=================================
-SEQUENCE
-=================================
+## SEQUENCE
+=============
   1. Requirements Review - are we building the right thing?
   2. Architecture Review - did we built it the right way?
   3. Consistency Review - Is the same business concept implemented consistently throughout the solution?
